@@ -1,4 +1,4 @@
-namespace go cloud
+namespace go server
 
 struct College {
     1: required string name(go.tag = 'json:"name"'),
